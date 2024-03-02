@@ -1,5 +1,5 @@
 <p align="center">
- <img src="./assets/animated-logotype.svg" height="200">
+ <img src="assets/animated-logotype.svg" height="200">
 </p>
 <h1 align="center">
     dominate-color.js
